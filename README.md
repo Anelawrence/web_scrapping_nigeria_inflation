@@ -1,7 +1,7 @@
 # Web Scrapping Nigeria Inflation Rate (1960-2021)
 
 ## Introduction
-The major aim of this project is to webscrape Nigeria inflation data (since 1960 to 2021) from worlddata.info, then draw some insights like
+The major aim of this project is to extract Nigeria inflation data (since 1960 to 2021) from worlddata.info, then draw some insights like
 - Year with highest inflation rate.
 - Year with lowest inflation rate.
 - The trend of the data.
@@ -24,6 +24,6 @@ These indicate that Nigeria has a higher inflation rate than other countries sin
 
 ## Conclusion
 Web scraping makes it simple to retrieve large datasets from webpages.  Information can be extracted from a variety of websites using web scraping. 
-From the data insights, Nigerian government need to formalate and implement policies to stable and relatively low inflation rate.
+From the data insights, Nigerian government need to formulate and implement policies for stable and relatively low inflation rate.
 
 
